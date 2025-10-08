@@ -108,13 +108,7 @@ The question:
    jupyter notebook "AB Testing (Marketing Campaigns).ipynb"
    ```
 
----
 
-## 📸 Example Visualizations
-- CTR and Conversion Trends by Platform  
-- Monthly Cost per Conversion (CPC) Trend  
-- Statistical Comparison Plots  
-*(You can embed PNG snapshots here if available)*
 
 ---
 
