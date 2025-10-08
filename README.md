@@ -122,8 +122,10 @@ The question:
 ---
 
 ## 🧾 Author
-**Your Name**  
-📧 rajeev108.tech@gmail.com  
+**Rajeev Ranjan**  
+📧 rajeev108.tech@gmail.com
+
 🔗 www.linkedin.com/in/rajeev-tech1
+
 📂 https://github.com/bytebyrajeev/
 
